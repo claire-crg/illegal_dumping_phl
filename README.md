@@ -30,3 +30,11 @@
 ## Workflow
 <img width="473" alt="workflow" src="https://github.com/claire-crg/illegal_dumping_phl/assets/82127458/f2a344ab-57b2-40ae-b5fd-0ccdcd5952c4">
 
+## Jupyter Notebooks
+
+There are 5 notebooks in total:
+  - The first is the analysis of the data,
+  - Three show how I pulled and cleaned data from the APIs used (311, L&I, and Census),
+  - And one contains the Random Forest analysis I conducted.
+
+The jupyter notebook called analysis.ipynb is in a narrative format that contextualizes and comments on the analysis and brings together the other 4 notebooks. I recommend starting here.
